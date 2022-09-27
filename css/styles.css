@@ -1,0 +1,233 @@
+body {
+  margin: 0;
+  text-align: center;
+  /*will centre all the child elements inside the body*/
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  line-height: 5rem;
+  color: #645CAA;
+  padding-top: 5%;
+  margin: 0 auto 3% auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #645CAA;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2.1rem;
+  padding-bottom: 30px;
+}
+
+h3 {
+  color: #7A86B6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #40514E;
+}
+
+span {
+  font-style: italic;
+}
+
+a {
+  color: #87A2FB;
+  text-decoration: none;
+}
+
+hr {
+  background-color: #D2DAFF;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #B2C8DF;
+  border-width: 5px;
+  width: 4%;
+  padding-bottom: 40px;
+}
+
+form {
+  padding-bottom: 0;
+}
+label{
+    color: #645CAA;
+
+}
+
+.contact-Root {
+  background-color: #D2DAFF;
+}
+
+.h1-contact {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2.1rem;
+  font-size: 2rem;
+  padding-top: 0;
+}
+
+.h22 {
+  margin-bottom: 10px;
+}
+
+.top-Container {
+  background-color: #D2DAFF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #D2DAFF;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.bottom-container {
+  padding-top: 10px;
+  background-color: #87A2FB;
+  margin-top: 0%;
+}
+
+.tm {
+  background-color: #87A2FB;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.75rem;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.footer-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #645CAA;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 10px 40px 5px 40px;
+
+}
+
+.footer-link:hover {
+  color: #D2DAFF;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  /*absolute with respect to top contianer */
+  right: 300px;
+  top: 50px;
+}
+
+.mountain {
+  margin-bottom: 7%;
+}
+
+.mypic {
+  height: 200px;
+  width: 200px;
+}
+
+.profile {}
+
+.skill-row {
+  margin: 100px auto 50px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  margin-bottom: 80px;
+}
+
+.skill1 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.skill2 {
+  width: 20%;
+  float: right;
+  margin-top: 0px;
+  margin-left: 30px;
+}
+
+.skill3 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill4 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill5 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill6 {
+  width: 20%;
+  float: right;
+  margin-left: 50px;
+}
+.mes-icon{
+  width: 10%;
+  position: absolute;
+  right: 20px;
+}
+
+.h2btm {
+  margin-top: 0px;
+}
+
+.description1 {
+  padding-bottom: 80px;
+}
+
+.mypic-description {
+  padding-bottom: 50px;
+}
+
+.btm-description {
+  padding-top: 0%;
+  padding-bottom: 5%;
+  border-bottom: 10px;
+}
+
+.contact-me {
+  background-color: #D2DAFF;
+  padding-bottom: 2%;
+}
+
+.btn {
+  color: #87A2FB;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.btn:hover {
+  color: #645CAA;
+}
+.con-hr{
+
+padding-bottom: 0;
+  border-bottom: 0;
+}
+.R1{
+  padding-top: 0px;
+}
